@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 git clone https://github.com/SrTortugardo/CatRunner-Linux
 cd CatRunner-Linux/src/
 make
