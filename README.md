@@ -27,7 +27,7 @@ sudo pacman -S libx11
 
 ## After installing deps you can run this script which will install all itself
 Just run :
-```curl -fsSL https://github.com/SrTortugardo/CatRunner-Linux/blob/main/install.sh | bash```
+```curl -fsSL https://github.com/SrTortugardo/CatRunner-Linux/raw/refs/heads/main/install.sh | bash```
 And all should be ready!
 
 ## Thanks for reading!
