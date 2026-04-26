@@ -1,5 +1,5 @@
 # Non oficial "port" of [CatRunner](https://github.com/kuma-sannn/CatRunner/tree/main) To GNU/Linux
-**NOTE** : If you like the program, [Please support creator](https://htmlpreview.github.io/?https://github.com/kuma-sannn/CatRunner/blob/main/docs/SPONSORS.html)
+## **NOTE** : If you like the program, [Please support creator](https://htmlpreview.github.io/?https://github.com/kuma-sannn/CatRunner/blob/main/docs/SPONSORS.html)
 This isn't a port, is a full rewrite on C, the reasons of making a rewrite are :
 - The project is made on C# : C# on GNU/Linux, works, but support is not the best
 - The code is designed to run on windows : Even if C# was a good idea, anyway we would need a full rewrite for almost every file.
