@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=CatRunner
+Comment=A lightweight desktop pet that monitors your GPU in real-time. The cat runs faster as your GPU usage increases, providing a fun and visual way to track performance!
+Exec=/usr/bin/catrunner
+Icon=/usr/share/catrunner/frame_000.png
+Terminal=false
+Type=Application
